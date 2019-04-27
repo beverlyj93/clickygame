@@ -1,7 +1,7 @@
 # Clicky Game - Army Style
 Click all 12 pictures only once to win the game.
 
-# Need help?
+### Need help?
 The game is pretty straight forward.
 
 ### Message to Shawn Holcomb
