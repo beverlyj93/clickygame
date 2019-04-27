@@ -1,0 +1,12 @@
+.army-card {
+    height: 255px;
+    width: 300px;
+    display: inline-block;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    padding: 0;
+    margin: 0;
+}

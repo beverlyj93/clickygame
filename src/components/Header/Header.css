@@ -1,0 +1,16 @@
+.header, .header-body {
+    text-align: center;
+}
+
+.header-container {
+    padding: 25px;
+}
+
+.header {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.header-body {
+    font-style: italic;
+}
