@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.5afed17a.chunk.css",
+    "main.js": "/clickygame/static/js/main.d32109a1.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.d32109a1.chunk.js.map",
+    "runtime~main.js": "/clickygame/static/js/runtime~main.bb8261cb.js",
+    "runtime~main.js.map": "/clickygame/static/js/runtime~main.bb8261cb.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/clickygame/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/clickygame/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.5d10e5b6afb7deec92f211c4ab2a57bc.js": "/clickygame/precache-manifest.5d10e5b6afb7deec92f211c4ab2a57bc.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.5afed17a.chunk.css.map": "/clickygame/static/css/main.5afed17a.chunk.css.map",
+    "static/media/armyeight.jpg": "/clickygame/static/media/armyeight.643bebbd.jpg",
+    "static/media/armyeleven.jpg": "/clickygame/static/media/armyeleven.2f0c0f3d.jpg",
+    "static/media/armyfive.jpg": "/clickygame/static/media/armyfive.da2179f8.jpg",
+    "static/media/armyfour.jpg": "/clickygame/static/media/armyfour.f481690d.jpg",
+    "static/media/armynine.jpg": "/clickygame/static/media/armynine.cc14503c.jpg",
+    "static/media/armyone.jpg": "/clickygame/static/media/armyone.d3b42aaf.jpg",
+    "static/media/armyseven.jpg": "/clickygame/static/media/armyseven.c4158913.jpg",
+    "static/media/armysix.jpg": "/clickygame/static/media/armysix.59ffc6b8.jpg",
+    "static/media/armyten.jpg": "/clickygame/static/media/armyten.9551edf1.jpg",
+    "static/media/armythree.jpg": "/clickygame/static/media/armythree.28755f00.jpg",
+    "static/media/armytwelve.jpg": "/clickygame/static/media/armytwelve.ab505ae6.jpg",
+    "static/media/armytwo.jpg": "/clickygame/static/media/armytwo.38c94e92.jpg"
+  }
+}
